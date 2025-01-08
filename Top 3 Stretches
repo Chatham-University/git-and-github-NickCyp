@@ -1,0 +1,2 @@
+top_stretches = ("Scorpion","Pigeon","Touch_Toes")
+print ("Top 3 Stretches", top_stretches)
